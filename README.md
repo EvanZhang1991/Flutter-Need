@@ -6,6 +6,7 @@
 ## 项目从2020年3月30日开始进行维护，由于第一次做相关工作，还请各位同学多提意见。
 ### Widget目录
 > Container
+>>前端代码
 ```
 <div class='container'>文字</div>
 <style>
@@ -14,6 +15,7 @@
 }
 </style>
 ```
+>>Flutter代码
 ```
 Container(
     child:Text('文字')
