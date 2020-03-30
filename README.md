@@ -1,2 +1,2 @@
 # Flutter-Need
-本项目讲长期进行维护，以简体中文形势，帮助Flutter学习者及开发人员更好的上手Flutter和进行Flutter开发
+本项目将长期进行维护，以简体中文形势，帮助Flutter学习者及开发人员更好的上手Flutter和进行Flutter开发
